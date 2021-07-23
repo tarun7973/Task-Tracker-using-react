@@ -1,6 +1,5 @@
 # Task-Tracker-using-react
-# Just simple project made while learning react.
-# In this you can add tasks, delete tasks, update reminder.
+Just simple project made while learning react. In this you can add tasks, delete tasks, update reminder.
 
 # Install dependicies by running
 npm install
